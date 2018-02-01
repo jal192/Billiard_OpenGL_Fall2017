@@ -1,11 +1,11 @@
 /*
-	project3.c
+	billiard.c
 
 	Created on: Nov 9, 2017
 	Author: Jason Ly
 */
 
-#ifdef __APPLE__  // include Mac OS X verions of headers
+#ifdef __APPLE__  // include Mac OS X versions of headers
 
 #include <OpenGL/OpenGL.h>
 #include <GLUT/glut.h>
